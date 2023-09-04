@@ -1,0 +1,14 @@
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\Helly Shah\Desktop\Study_Notes\Coding_Question\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
